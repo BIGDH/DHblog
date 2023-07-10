@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "BIGDH`s Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Donghun Shin(BIGD)"
+name                     : "Donghun Shin(BIGDH)"
 description              : "나의 발자취"
 url                      : "https://BIGDH.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
