@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "photon-dark" # "github-light" (default), "github-dark"
-    issue_term           : "pathname" # "pathname" (default)
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
@@ -107,12 +107,15 @@ author:
   name             : "BIGDH"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "게임 개발자"
-  location         : "South Korea Ansan"
+  #location         : "South Korea Ansan"
   email            : "elsoung1212@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "elsoung1212@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+       url: "https://github.com/BIGDH"
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,9 +125,6 @@ author:
     #- label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/BIGDH"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
